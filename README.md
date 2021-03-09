@@ -1,7 +1,7 @@
 <h1 align="left">Olá 👋, Eu sou Danilo</h1>
 <h3 align="left">Eu sou um Desenvolvedor Fullstack Java/Web</h3>
 
-- 🤵 Eu atualmente estou aprendendo: **Javascript e Java com Spring**
+- 🤵 Eu atualmente estou aprendendo: **Java com Spring**
 
 - 📫 Como me contatar: **daniloalvessantos4@gmail.com**
 
